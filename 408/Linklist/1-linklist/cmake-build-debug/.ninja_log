@@ -1,0 +1,15 @@
+# ninja log v5
+0	699	7360083473325643	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+725	2485	7360083491147960	1_linklist.exe	11c4aafdcce15eaa
+3	173	7360086924240085	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+173	320	7360086925642670	1_linklist.exe	11c4aafdcce15eaa
+3	156	7360087336562598	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+157	302	7360087337950262	1_linklist.exe	11c4aafdcce15eaa
+1	113	7360092547840689	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+114	224	7360092548934907	1_linklist.exe	11c4aafdcce15eaa
+4	165	7360094695451446	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+165	306	7360094696809360	1_linklist.exe	11c4aafdcce15eaa
+2	126	7360095644306533	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+150	246	7360095645475885	1_linklist.exe	11c4aafdcce15eaa
+3	222	7360096549192959	CMakeFiles/1_linklist.dir/main.cpp.obj	2606647d30e4e75b
+222	374	7360096550631142	1_linklist.exe	11c4aafdcce15eaa

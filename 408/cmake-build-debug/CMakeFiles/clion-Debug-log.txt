@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\408 -B D:\408\cmake-build-debug
+-- Configuring done (1.4s)
+CMake Error at CMakeLists.txt:12 (add_executable):
+  Cannot find source file:
+
+    02.C���Զ�ѧӪ/04.C���Կμ�������ϼ���/10/10.3/1-sqlist/main.cpp
+
+
+CMake Error at CMakeLists.txt:12 (add_executable):
+  No SOURCES given to target: 408
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

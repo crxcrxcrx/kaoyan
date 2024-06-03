@@ -1,0 +1,5 @@
+# ninja log v5
+0	153	7345309060030644	CMakeFiles/hello.dir/main.c.obj	dca535e0b48eec47
+155	286	7345309061290459	hello.exe	5b6665c5c681b068
+2	93	7345309570834543	CMakeFiles/hello.dir/main.c.obj	dca535e0b48eec47
+93	180	7345309571659670	hello.exe	5b6665c5c681b068
